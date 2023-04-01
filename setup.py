@@ -81,7 +81,6 @@ setup(
     install_requires=[
         'certifi>=2018.1.18',
         'requests>=2.18.4',
-        'cryptography>=2.6.1'
     ],
 
     extras_require={
